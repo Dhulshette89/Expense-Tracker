@@ -1,0 +1,7 @@
+Grocery
+Bills
+Travel
+Entertainment
+Housing
+Food
+Other
